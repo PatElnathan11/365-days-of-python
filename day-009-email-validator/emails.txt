@@ -1,0 +1,7 @@
+user@gmail.com
+invalid.email@
+admin@google.com
+test.user@yahoo.com
+wrong_domain@domainyangtidakada12345.com
+format_salah@domain..com
+support@github.com

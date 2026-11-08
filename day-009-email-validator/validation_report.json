@@ -1,0 +1,44 @@
+[
+    {
+        "email": "user@gmail.com",
+        "syntax_valid": true,
+        "domain_active": true,
+        "status": "Valid"
+    },
+    {
+        "email": "invalid.email@",
+        "syntax_valid": false,
+        "domain_active": false,
+        "status": "Invalid Syntax"
+    },
+    {
+        "email": "admin@google.com",
+        "syntax_valid": true,
+        "domain_active": true,
+        "status": "Valid"
+    },
+    {
+        "email": "test.user@yahoo.com",
+        "syntax_valid": true,
+        "domain_active": true,
+        "status": "Valid"
+    },
+    {
+        "email": "wrong_domain@domainyangtidakada12345.com",
+        "syntax_valid": true,
+        "domain_active": false,
+        "status": "Domain Not Found"
+    },
+    {
+        "email": "format_salah@domain..com",
+        "syntax_valid": false,
+        "domain_active": false,
+        "status": "Invalid Syntax"
+    },
+    {
+        "email": "support@github.com",
+        "syntax_valid": true,
+        "domain_active": true,
+        "status": "Valid"
+    }
+]
