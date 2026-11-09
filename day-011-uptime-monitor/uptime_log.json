@@ -1,0 +1,38 @@
+[
+    {
+        "timestamp": "2026-11-09 08:03:03",
+        "total_checked": 5,
+        "results": [
+            {
+                "url": "https://google.com",
+                "status": "ONLINE",
+                "code": 200,
+                "latency_ms": 423.77
+            },
+            {
+                "url": "https://github.com",
+                "status": "ONLINE",
+                "code": 200,
+                "latency_ms": 103.61
+            },
+            {
+                "url": "https://wikipedia.org",
+                "status": "ONLINE",
+                "code": 200,
+                "latency_ms": 265.84
+            },
+            {
+                "url": "https://httpbin.org/status/404",
+                "status": "HTTP 404",
+                "code": 404,
+                "latency_ms": 767.89
+            },
+            {
+                "url": "https://domain-yang-pasti-tidak-ada-123456789.com",
+                "status": "OFFLINE",
+                "code": null,
+                "latency_ms": null
+            }
+        ]
+    }
+]
