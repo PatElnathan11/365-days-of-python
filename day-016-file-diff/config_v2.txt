@@ -1,0 +1,7 @@
+APP_NAME=MyPythonApp
+VERSION=1.2.0
+DEBUG=False
+PORT=8080
+DATABASE_URL=postgresql://prod-server:5432/mydb
+MAX_CONNECTIONS=10
+ENABLE_CACHE=True
