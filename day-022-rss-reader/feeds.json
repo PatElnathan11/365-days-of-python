@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Python Insider",
+        "url": "https://blog.python.org/feeds/posts/default?alt=rss"
+    },
+    {
+        "name": "Hacker News",
+        "url": "https://hnrss.org/frontpage"
+    },
+    {
+        "name": "Real Python",
+        "url": "https://realpython.com/atom.xml"
+    }
+]
