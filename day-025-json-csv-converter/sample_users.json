@@ -1,0 +1,24 @@
+[
+  {
+    "id": 101,
+    "name": "Budi Santoso",
+    "role": "Backend Developer",
+    "active": true,
+    "score": 88.5
+  },
+  {
+    "id": 102,
+    "name": "Siti Rahma",
+    "role": "Data Analyst",
+    "active": true,
+    "score": 92.0,
+    "department": "Analytics"
+  },
+  {
+    "id": 103,
+    "name": "Andi Wijaya",
+    "role": "DevOps Engineer",
+    "active": false,
+    "score": 79.5
+  }
+]

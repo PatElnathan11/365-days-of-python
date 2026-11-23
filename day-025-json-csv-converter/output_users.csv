@@ -1,0 +1,4 @@
+id,name,role,active,score,department
+101,Budi Santoso,Backend Developer,True,88.5,
+102,Siti Rahma,Data Analyst,True,92.0,Analytics
+103,Andi Wijaya,DevOps Engineer,False,79.5,
