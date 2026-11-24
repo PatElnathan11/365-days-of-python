@@ -1,0 +1,12 @@
+[2026-11-24 08:00:01] INFO [System]: Server started on port 8080
+[2026-11-24 08:05:14] INFO [AuthService]: User 'admin' logged in successfully
+[2026-11-24 08:12:45] WARNING [DiskMonitor]: Disk usage reached 82% on /dev/sda1
+[2026-11-24 08:15:02] ERROR [Database]: Connection timeout after 5000ms
+[2026-11-24 08:18:30] INFO [APIGateway]: GET /api/v1/users 200 OK
+[2026-11-24 08:22:11] ERROR [AuthService]: Invalid JWT token signature
+[2026-11-24 08:25:49] ERROR [Database]: Connection timeout after 5000ms
+[2026-11-24 08:30:00] WARNING [MemoryMonitor]: High memory allocation detected (88%)
+[2026-11-24 08:33:19] CRITICAL [PaymentService]: Payment gateway unreachable (HTTP 503)
+[2026-11-24 08:40:12] ERROR [Database]: Connection timeout after 5000ms
+[2026-11-24 08:45:05] INFO [APIGateway]: POST /api/v1/orders 201 Created
+[2026-11-24 08:50:44] ERROR [AuthService]: Invalid JWT token signature
