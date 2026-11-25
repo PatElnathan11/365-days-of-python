@@ -1,0 +1,52 @@
+[
+    {
+        "domain": "google.com",
+        "status": "VALID",
+        "common_name": "*.google.com",
+        "issuer": "Google Trust Services",
+        "issued_on": "2026-11-03",
+        "expires_on": "2027-01-26",
+        "days_remaining": 62,
+        "error": null
+    },
+    {
+        "domain": "github.com",
+        "status": "VALID",
+        "common_name": "github.com",
+        "issuer": "Sectigo Limited",
+        "issued_on": "2026-10-30",
+        "expires_on": "2027-01-27",
+        "days_remaining": 63,
+        "error": null
+    },
+    {
+        "domain": "python.org",
+        "status": "VALID",
+        "common_name": "www.python.org",
+        "issuer": "GlobalSign nv-sa",
+        "issued_on": "2026-01-13",
+        "expires_on": "2027-02-14",
+        "days_remaining": 81,
+        "error": null
+    },
+    {
+        "domain": "expired.badssl.com",
+        "status": "INVALID / UNTRUSTED",
+        "common_name": "-",
+        "issuer": "-",
+        "issued_on": "-",
+        "expires_on": "-",
+        "days_remaining": null,
+        "error": "certificate has expired"
+    },
+    {
+        "domain": "self-signed.badssl.com",
+        "status": "CONNECTION ERROR",
+        "common_name": "-",
+        "issuer": "-",
+        "issued_on": "-",
+        "expires_on": "-",
+        "days_remaining": null,
+        "error": "timed out"
+    }
+]
