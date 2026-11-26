@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-11-26 09:48:34",
+        "method": "GET",
+        "url": "https://jsonplaceholder.typicode.com/posts/1",
+        "status_code": 200,
+        "latency_ms": 258.2
+    }
+]
